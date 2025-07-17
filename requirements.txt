@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pillow
+scikit-learn
+gradio
+openai  # Optional, remove if not using GPT
+requests  # Optional, for making HTTP requests
+llm-agent  # Custom package for LLM interactions, ensure it's installed

@@ -1,0 +1,188 @@
+{
+  "Bangus": {
+    "common_name": "Milkfish",
+    "habitat": "Brackish and coastal waters",
+    "conservation_status": "Least Concern",
+    "fun_fact": "National fish of the Philippines."
+  },
+  "Big Head Carp": {
+    "common_name": "Bighead Carp",
+    "habitat": "Freshwater rivers and lakes",
+    "conservation_status": "Invasive in some regions",
+    "fun_fact": "Can grow up to 40 kg!"
+  },
+  "Black Spotted Barb": {
+    "common_name": "Black Spotted Barb",
+    "habitat": "Streams and ponds",
+    "conservation_status": "Stable",
+    "fun_fact": "Named for its distinct black spots."
+  },
+  "Catfish": {
+    "common_name": "Catfish",
+    "habitat": "Freshwater and brackish waters",
+    "conservation_status": "Varies by species",
+    "fun_fact": "Has whisker-like barbels."
+  },
+  "Climbing Perch": {
+    "common_name": "Climbing Perch",
+    "habitat": "Swamps and rice paddies",
+    "conservation_status": "Resilient",
+    "fun_fact": "Can survive out of water for hours!"
+  },
+  "Fourfinger Threadfin": {
+    "common_name": "Fourfinger Threadfin",
+    "habitat": "Coastal and estuarine areas",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Named for its long pectoral filaments."
+  },
+  "Freshwater Eel": {
+    "common_name": "Freshwater Eel",
+    "habitat": "Rivers and lakes",
+    "conservation_status": "Declining in some areas",
+    "fun_fact": "Can migrate thousands of kilometers."
+  },
+  "Glass Perchlet": {
+    "common_name": "Glass Perchlet",
+    "habitat": "Freshwater streams",
+    "conservation_status": "Stable",
+    "fun_fact": "Body is semi-transparent."
+  },
+  "Goby": {
+    "common_name": "Goby",
+    "habitat": "Coastal and reef zones",
+    "conservation_status": "Abundant",
+    "fun_fact": "Some species form symbiotic relationships with shrimp."
+  },
+  "Gold Fish": {
+    "common_name": "Goldfish",
+    "habitat": "Freshwater ponds and aquariums",
+    "conservation_status": "Domesticated",
+    "fun_fact": "Can recognize their owners!"
+  },
+  "Gourami": {
+    "common_name": "Gourami",
+    "habitat": "Slow-moving freshwater",
+    "conservation_status": "Stable",
+    "fun_fact": "Can breathe air using a labyrinth organ."
+  },
+  "Grass Carp": {
+    "common_name": "Grass Carp",
+    "habitat": "Lakes and reservoirs",
+    "conservation_status": "Widely farmed",
+    "fun_fact": "Used for aquatic weed control."
+  },
+  "Green Spotted Puffer": {
+    "common_name": "Green Spotted Puffer",
+    "habitat": "Brackish waters",
+    "conservation_status": "Popular in aquariums",
+    "fun_fact": "Can inflate when threatened."
+  },
+  "Indian Carp": {
+    "common_name": "Indian Major Carp",
+    "habitat": "Rivers and lakes",
+    "conservation_status": "Farmed extensively",
+    "fun_fact": "Includes Rohu, Catla, and Mrigal."
+  },
+  "Indo-Pacific Tarpon": {
+    "common_name": "Indo-Pacific Tarpon",
+    "habitat": "Coastal and estuarine waters",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Can gulp air from the surface."
+  },
+  "Jaguar Gapote": {
+    "common_name": "Jaguar Cichlid",
+    "habitat": "Freshwater rivers",
+    "conservation_status": "Stable",
+    "fun_fact": "Named for its jaguar-like spots."
+  },
+  "Janitor Fish": {
+    "common_name": "Janitor Fish",
+    "habitat": "Rivers and lakes",
+    "conservation_status": "Invasive in some regions",
+    "fun_fact": "Known for algae cleaning in aquariums."
+  },
+  "Knifefish": {
+    "common_name": "Knifefish",
+    "habitat": "Freshwater rivers",
+    "conservation_status": "Stable",
+    "fun_fact": "Moves using undulating fin motion."
+  },
+  "Long-Snouted Pipefish": {
+    "common_name": "Long-Snouted Pipefish",
+    "habitat": "Seagrass beds and estuaries",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Related to seahorses."
+  },
+  "Mosquito Fish": {
+    "common_name": "Mosquitofish",
+    "habitat": "Ponds and ditches",
+    "conservation_status": "Invasive in some areas",
+    "fun_fact": "Used for mosquito control."
+  },
+  "Mudfish": {
+    "common_name": "Mudfish",
+    "habitat": "Swamps and muddy waters",
+    "conservation_status": "Resilient",
+    "fun_fact": "Can survive in low oxygen environments."
+  },
+  "Mullet": {
+    "common_name": "Mullet",
+    "habitat": "Coastal and estuarine waters",
+    "conservation_status": "Stable",
+    "fun_fact": "Often seen jumping out of water."
+  },
+  "Pangasius": {
+    "common_name": "Pangasius",
+    "habitat": "Large rivers",
+    "conservation_status": "Farmed extensively",
+    "fun_fact": "Popular in global seafood markets."
+  },
+  "Perch": {
+    "common_name": "Perch",
+    "habitat": "Freshwater lakes",
+    "conservation_status": "Stable",
+    "fun_fact": "Known for its spiny dorsal fin."
+  },
+  "Scat Fish": {
+    "common_name": "Scat",
+    "habitat": "Brackish mangroves",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Can tolerate wide salinity ranges."
+  },
+  "Silver Barb": {
+    "common_name": "Silver Barb",
+    "habitat": "Rivers and ponds",
+    "conservation_status": "Farmed in Asia",
+    "fun_fact": "Fast-growing and hardy."
+  },
+  "Silver Carp": {
+    "common_name": "Silver Carp",
+    "habitat": "Freshwater rivers",
+    "conservation_status": "Invasive in some regions",
+    "fun_fact": "Jumps when startled by boats."
+  },
+  "Silver Perch": {
+    "common_name": "Silver Perch",
+    "habitat": "Freshwater rivers",
+    "conservation_status": "Threatened in some areas",
+    "fun_fact": "Popular among anglers."
+  },
+  "Snakehead": {
+    "common_name": "Snakehead",
+    "habitat": "Swamps and rice fields",
+    "conservation_status": "Invasive in many countries",
+    "fun_fact": "Can breathe air and move on land!"
+  },
+  "Tenpounder": {
+    "common_name": "Tenpounder",
+    "habitat": "Coastal waters",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Fast and strong swimmer."
+  },
+  "Tilapia": {
+    "common_name": "Tilapia",
+    "habitat": "Freshwater lakes and rivers",
+    "conservation_status": "Widely farmed",
+    "fun_fact": "Known for rapid reproduction and adaptability."
+  }
+}
