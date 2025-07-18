@@ -80,4 +80,7 @@ Built by Vyas with a passion for AI, biodiversity, and real-world impact ğŸŒğŸ
 ### YOUTUBE LINK:
 https://youtu.be/yd_yPEaVIUI
 
+### ppt file:
+https://robinhoodai.my.canva.site/fishvision
+
 ---
