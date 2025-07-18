@@ -20,7 +20,7 @@ Built with TensorFlow, Gradio, and clean, modular Python code, PiscisAI is desig
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/FishVision-Agent.git
+git clone https://github.com/veeda241/FishVision-Agent.git
 cd FishVision-Agent
 
 
