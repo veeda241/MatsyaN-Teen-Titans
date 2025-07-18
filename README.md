@@ -1,8 +1,8 @@
-# 🐟 PiscisAI
+# 🐟 FishVision
 
-PiscisAI is your friendly fish-identifying assistant! (It is an ptototype) Just snap or upload a photo of a fish, and PiscisAI will tell you what species it is — instantly. Powered by a trained MobileNetV2 model, it doesn’t just stop at identification. You’ll also get interesting info about the fish’s habitat, conservation status, and even some fun facts.
+FishVision is your friendly fish-identifying assistant! (It is a prototype) Just snap or upload a photo of a fish, and FishVision will tell you what species it is — instantly. Powered by a trained MobileNetV2 model, it doesn’t just stop at identification. You’ll also get interesting info about the fish’s habitat, conservation status, and even some fun facts.
 
-Built with TensorFlow, Gradio, and clean, modular Python code, PiscisAI is designed to be simple, fast, and surprisingly fun to use — whether you're a researcher, hobbyist, or just curious about the fish you saw on your last trip.
+Built with TensorFlow, Gradio, and clean, modular Python code, FishVision is designed to be simple, fast, and surprisingly fun to use — whether you're a researcher, hobbyist, or just curious about the fish you saw on your last trip.
 
 ---
 
@@ -80,7 +80,7 @@ Built by Vyas with a passion for AI, biodiversity, and real-world impact 🌍�
 ### YOUTUBE LINK:
 https://youtu.be/yd_yPEaVIUI
 
-### ppt file:
+### PPT file:
 https://robinhoodai.my.canva.site/fishvision
 
 ---
