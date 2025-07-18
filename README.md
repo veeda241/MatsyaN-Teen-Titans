@@ -1,6 +1,6 @@
 # 🐟 PiscisAI
 
-PiscisAI is your friendly fish-identifying assistant! Just snap or upload a photo of a fish, and PiscisAI will tell you what species it is — instantly. Powered by a trained MobileNetV2 model, it doesn’t just stop at identification. You’ll also get interesting info about the fish’s habitat, conservation status, and even some fun facts.
+PiscisAI is your friendly fish-identifying assistant! (It is an ptototype) Just snap or upload a photo of a fish, and PiscisAI will tell you what species it is — instantly. Powered by a trained MobileNetV2 model, it doesn’t just stop at identification. You’ll also get interesting info about the fish’s habitat, conservation status, and even some fun facts.
 
 Built with TensorFlow, Gradio, and clean, modular Python code, PiscisAI is designed to be simple, fast, and surprisingly fun to use — whether you're a researcher, hobbyist, or just curious about the fish you saw on your last trip.
 
